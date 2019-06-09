@@ -1,0 +1,4 @@
+Lo que podemos observar, que el rendimiento de cola estática es mucho mayor que el de cola
+dinámica, no así con respecto a pila, donde en pila estática se mantiene constante mientras
+que en dinámica hay algunos picos.
+Además, notamos que pila es más estable que cola. 
